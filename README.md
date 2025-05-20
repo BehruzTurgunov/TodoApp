@@ -22,5 +22,5 @@ A simple and modern To-Do List application. Users can add, edit, and delete task
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/BehruzTurgunov/TodoApp.git
+
